@@ -1,0 +1,23 @@
+name,description,start,increment,parent,type
+Strength,             Melee-Attack-Damage,            10.,        5.,         1.,       1
+Sword-Limberness,     Melee-Swing-Speed,              5.,         1.,         1.,       1
+Swing-Reflex,         Melee-Recharge-Speed,           5.,         1.,         1.,       1
+Brawn,                Critical-Strike,                5.,         1.,         1.,       1
+Defense,              Toughness,                      10.,        5.,         1.,       1
+Constitution,         Total-Health,                   100.,       1.,         1.,       1
+Vitality,             Health-Regeneration,            5.,         .1,         1.,       1
+Agility,              Movement-Speed,                 10.,        5.,         1.,       1
+Stamina,              Dash-Recharge-Speed,            10.,        -.1,        1.,       1
+Acrobatics,           Dash-Distance,                  10.,        1.,         1.,       1
+Sorcery,              Magic-Attack-Damage,            10.,        5.,         1.,       1
+Spirit,               Magic-Attack-Recharge-Speed,    10.,        1.,         1.,       1
+Wisdom,               Total-Mana,                     100.,       1.,         1.,       1
+Inspiration,          Mana-Regeneration,              5.,         1.,         1.,       1
+Archery,              Bow-Attack-Damage,              15.,        -1.,        1.,       1
+Draw-Speed,           Bow-Recharge-Speed,             5.,         1.,         1.,       1
+Dexterity,            Arrow-Speed,                    15.,        1.,         1.,       1
+Piercing,             Arrow-Piercing,                 2.,         1.,         1.,       1
+Stealth,              Aggro-Range,                    350.,       5.,         1.,       1
+Intimidation,         Mob-Slowdown-Range,             50.,        1.,         1.,       1
+Willpower,            Mob-Slowdown-Strength,          20.,        1.,         1.,       1
+Perception,           Light-Visibility,               1.,         1.,         1.,       1
